@@ -1,0 +1,14 @@
+h1 {
+	color: #black;
+    margin-left: 50px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+}
+#header{
+	top: auto;
+	height: 60px;
+	display: block;
+}
+.colorblocks {
+	margin-left: 50px;
+}
